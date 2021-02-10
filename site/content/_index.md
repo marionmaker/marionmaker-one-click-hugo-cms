@@ -3,11 +3,9 @@ title: Mon nouveau site internet
 subtitle: Netlify CMS
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Mon parcours
+  text: "Etudiante en Master Expert Digital, j'ai pu m'initier à différents outils
+    et notamment Github et Netlify. "
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
