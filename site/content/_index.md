@@ -3,11 +3,11 @@ title: Mon nouveau site internet
 subtitle: Netlify CMS
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Mon parcours
+  heading: Présentation
   text: "Etudiante en Master Expert Digital, j'ai pu m'initier à différents outils
     et notamment Github et Netlify. "
 intro:
-  heading: What we offer
+  heading: Mon parcours
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
@@ -25,7 +25,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 values:
-  heading: Our values
+  heading: Mes valeurs
   text: Coffee is an amazing part of human culture but it has a dark side too –
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
